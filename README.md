@@ -15,6 +15,12 @@ so that I have quick access to emails and GitHub profiles
 
 ## Demo 
 
+The following animation demonstrates the application functionality:
+
+![home](https://github.com/hannahjorich/Template-Engine/blob/master/assets/app.gif)
+
+![home](./assets/teamimage.png)
+
 ## Resources 
 
 Node JS, JavaScript
